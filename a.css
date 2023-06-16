@@ -1,3 +1,16 @@
+ /*전체 선택자*/
+ * {
+    color: blue;
+ }
+ /*태그 선택자*/
  div{
      color: rgb(163, 219, 50);
+}
+/*클래스 선택자*/
+.fd{
+    color: blueviolet;
+}
+/*id 선택자*/
+#s{
+    color: hotpink;
 }

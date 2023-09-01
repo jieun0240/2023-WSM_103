@@ -3,8 +3,11 @@
     color: blue;
  }
  /*태그 선택자*/
- div{
+ div {
      color: rgb(163, 219, 50);
+     border: 3px solid gold;
+     padding: 20px 10px 5px 1px ;
+     margin: 10px;
 }
 /*클래스 선택자*/
 .fd{
